@@ -11,13 +11,22 @@ Your challenge is to create a 10 question, true or false, quiz app in React. **Y
 - Maintainability
 - Use of industry best practices  
 
+Some specific things that we are looking for:
+
+ - State manager
+ - Navigation solution
+ - Componentization
+ - Communiation in the repo and/or code
+ - Best practices with API calls and data
+ - Separation of concerns between business and UI logic  
+
 ### Goals
-Implement the screens based off the wireframes and api below using **advanced techniques** and **industry best practices** for your platform. Note that the wireframes may not be complete, so use your best judgment for UI/UX implementation. **Do not use a boilerplate like React Boilerplate or Ignite for this challenge.** We want to see how you structure your project and what tooling you use from scratch. **Create-react-app is fine to use.**
+Implement the screens based off the wireframes and api below using **advanced techniques** and **industry best practices** for React. Note that the wireframes may not be complete, so use your best judgment for UI/UX implementation. **Do not use a boilerplate like React Boilerplate or Ignite for this challenge.** We want to see how you structure your project and what tooling you use from scratch. **Create-react-app is fine to use.**
 
 ### Specifications
 Data:
 
-The api url is: https://opentdb.com/api.php?amount=10&difficulty=hard&type=boolean
+The API url is: https://opentdb.com/api.php?amount=10&difficulty=hard&type=boolean
 
 Sample returned json:
 ```js
