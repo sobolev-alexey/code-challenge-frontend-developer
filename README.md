@@ -36,13 +36,13 @@ Sample returned json:
     },…]}
 ```
 #### Intro / Home Screen:
-The Intro screen for the app
+![The Intro screen for the app](https://raw.githubusercontent.com/sobolev-alexey/code-challenge-junior-developer/main/Intro.png "The Intro screen for the app")
 
  - Static Text
  - BEGIN button navigates to the Quiz screen and starts the Quiz  
  
 #### Quiz Screen:
-The Quiz screen for the app
+![The Quiz screen for the app](https://raw.githubusercontent.com/sobolev-alexey/code-challenge-junior-developer/main/Quiz.png "The Quiz screen for the app")
 
  - The headline is from question category
  - The card element contains the current question
@@ -50,7 +50,7 @@ The Quiz screen for the app
  - After all questions have been answered, navigate to the Results Screen  
  
 #### Results screen:
-The Results screen for the app
+![The Results screen for the app](https://raw.githubusercontent.com/sobolev-alexey/code-challenge-junior-developer/main/Score.png "The Results screen for the app")
 
  - The Score shows correct and total
  - Displays a list of the questions and whether the answer was correct or not
