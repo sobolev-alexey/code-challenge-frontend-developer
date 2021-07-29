@@ -1,4 +1,11 @@
 ## Quiz Game Coding Challenge
+
+##### Position: Software Engineer
+We really appreciate your time and effort working on this home task as part of our interview process. It is meant for you to demonstrate your skills as well as get a taste of what we are looking for and what your job at IOTA Foundation will get you in.  
+
+Please do not share this task with anyone or make it public in any way. We encourage you to contact us if you have any questions, by replying to the email.
+
+
 ### Overview
 Your challenge is to create a 10 question, true or false, quiz app in React. **You should not just implement the most basic solution. This is a chance to show off your abilities and impress.**
 
@@ -17,7 +24,7 @@ Some specific things that we are looking for:
  - Correct implementation of a context/state manager
  - Correct implementation of a navigation solution
  - Componentization
- - Communiation in the repo and/or code
+ - Communication in the repo and/or code (comments, meaningful variable names, readme file)
  - Best practices with API calls and data
  - Separation of concerns between business and UI logic  
 
