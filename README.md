@@ -13,8 +13,9 @@ Your challenge is to create a 10 question, true or false, quiz app in React. **Y
 
 Some specific things that we are looking for:
 
- - State manager
- - Navigation solution
+ - Typescript if you know it
+ - Correct implementation of a context/state manager
+ - Correct implementation of a navigation solution
  - Componentization
  - Communiation in the repo and/or code
  - Best practices with API calls and data
